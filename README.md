@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Devops,phython,c++,Databases**
+- 💬 Ask me about **Dotnet,python,c++,Databases**
 
 - 📫 How to reach me **syedaizaz292@gmail.com**
 
