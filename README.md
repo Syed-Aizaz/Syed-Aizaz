@@ -6,9 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/syedaizaz00" target="blank"><img src="https://img.shields.io/twitter/follow/syedaizaz00?logo=twitter&style=for-the-badge" alt="syedaizaz00" /></a> </p>
 
-- 🔭 I’m currently working on **Hostel Management System**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Asp.net**
 
 - 💬 Ask me about **Dotnet,python,c++,Databases**
 
